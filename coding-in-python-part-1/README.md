@@ -1,11 +1,11 @@
-# Pomodorro Timer
-The Pomodorro Technique was created in the early 1990's by developer, entrepreneur,
+# Pomodoro Timer
+The Pomodoro Technique was created in the early 1990's by developer, entrepreneur,
 and author Francesco Cirillo. It is very popular in the computer science
 industry. The motivating idea behind the technique is to work very hard for
 25 minutes, then take a well deserved 5 minute rest. Complete this cycle 4
 times and then take a longer break... maybe 15 minutes and resume.
 
-This project creates a pomodorro timer out of an [Adafruit Trinket M0](https://www.adafruit.com/product/3500), a
+This project creates a pomodoro timer out of an [Adafruit Trinket M0](https://www.adafruit.com/product/3500), a
 push button, and 5 LEDs.
 
 ## Workshop Details
