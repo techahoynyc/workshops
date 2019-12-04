@@ -3,7 +3,7 @@ TechAhoy Inc. is a non-profit community space on the Queens/Brooklyn border wher
 
 Our workshops are for beginners and experienced coders alike and we encourage parent involvement in our CodeTogether series where parents can learn to code with their children while practicing [pair programming](https://en.wikipedia.org/wiki/Pair_programming).
 
-## BOM
+## Workshops by Language
 |Language|Workshop|
 |---|---|
 |Python|[Coding in Python (Part 1)](https://github.com/techahoynyc/workshops/tree/master/coding-in-python-part-1)|
