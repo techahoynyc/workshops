@@ -7,4 +7,5 @@ Our workshops are for beginners and experienced coders alike and we encourage pa
 |Language|Workshop|
 |---|---|
 |Python|[Coding in Python (Part 1)](https://github.com/techahoynyc/workshops/tree/master/coding-in-python-part-1)|
+|Python|[Coding in Python (Part 2)](https://github.com/techahoynyc/workshops/tree/master/coding-in-python-part-2)|
 |Arduino/C++|[Coding in Arduino (Ambient Computing)](https://github.com/techahoynyc/workshops/tree/master/coding-in-arduino-ambient-computing)|
