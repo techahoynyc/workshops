@@ -16,7 +16,7 @@ push button, and 5 LEDs.
 
 
 ## Notes:
-*The at the code in this repository is written for a push button that this "always open."  
+*The code in this repository is written for a push button that this "always open."  
 Also, please be aware of the pinout for the Trinket M0 as the analog pins do not correspond to the painted labels.*
 
 
