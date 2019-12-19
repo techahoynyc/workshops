@@ -1,4 +1,4 @@
-#Coding in Python Part 2
+#Coding in Python Part 3
 
 import time
 import board
@@ -16,17 +16,13 @@ def startTimer():
         pixels[pixel] = (0, 100, 20)
         time.sleep(0.5)
 
-
 def restPeriod():
-    period = 0
-    while period < 3:
-        for bulb in range(0,5):
-            pixels[bulb] = (0,20,0)
-        time.sleep(0.5)
-        for bulb in range(0,5):
-            pixels[bulb] = (0,0,0)
-        time.sleep(0.5)
-        period = period + 1
+    for bulb in range(0,5):
+        pixels[bulb] = (0,20,0)
+    time.sleep(0.5)
+    for bulb in range(0,5):
+        pixels[bulb] = (0,0,0)
+    time.sleep(0.5)
 
 while True:
     buttonUp = button.value
