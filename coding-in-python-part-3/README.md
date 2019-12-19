@@ -9,7 +9,7 @@ This project creates a pomodoro timer out of an [Adafruit Trinket M0](https://ww
 push button, and 5 LEDs.
 
 ## Workshop Details
-* The 3D Model's are available in two formats:  
+* The 3D models are available in two formats:  
   * [STL files](https://www.thingiverse.com/thing:3963918) from our [Thingiverse](https://www.thingiverse.com/techahoynyc/about) page, for easy printing
   * Fusion360 Archive to allow customization and easier remixing - [enclosure](https://a360.co/2rbCt72) and [enclosure lid](https://a360.co/2sC8oOd)  
 * [Thingiverse](https://www.thingiverse.com/), [PrusaPrinters](https://www.prusaprinters.org/), and [MyMiniFactory](https://www.myminifactory.com/) are all excellent resources for finding 3D models that you can print at [TechAhoy](https://techahoy.org) or at home
