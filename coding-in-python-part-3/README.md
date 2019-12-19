@@ -13,6 +13,7 @@ push button, and 5 LEDs.
   * [STL files](https://www.thingiverse.com/thing:3963918) from our [Thingiverse](https://www.thingiverse.com/techahoynyc/about) page, for easy printing
   * Fusion360 Archive to allow customization and easier remixing - [enclosure](https://a360.co/2rbCt72) and [enclosure lid](https://a360.co/2sC8oOd)  
 * [Thingiverse](https://www.thingiverse.com/), [PrusaPrinters](https://www.prusaprinters.org/), and [MyMiniFactory](https://www.myminifactory.com/) are all excellent resources for finding 3D models that you can print at [TechAhoy](https://techahoy.org) or at home
+* Each of the examples we covered and additional lighting effects can be found in the [examples folder](https://github.com/techahoynyc/workshops/raw/master/coding-in-python-part-3/examples)
 * When building future projects for the Trinket M0, always use the most recent version of [CircuitPython](https://circuitpython.org/board/trinket_m0/) and its corresponding [libraries](https://circuitpython.org/libraries). Detailed installation instructions can be found on the [Adafruit Trinket M0 Learn Guide](https://learn.adafruit.com/adafruit-trinket-m0-circuitpython-arduino/circuitpython).  
 
 
